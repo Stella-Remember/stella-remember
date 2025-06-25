@@ -2,12 +2,12 @@
 
 ## Full Stack Engineer(Junior Dev)   
 
-# 🚀 Who I Am
+## 🚀 Who I Am
 
-🔧 Full-stack focused, with expertise in building scalable web applications and mobile applications
-📱 Currently mastering: Flutter, Python, JavaScript, and exploring Docker for containerization
-🌍 Passionate about creating real-world solutions that make a difference
-🤝 Available for collaborations and good technical discussion
+- 🔧 Full-stack focused, with expertise in building scalable web applications and mobile applications
+- 📱 Currently mastering: Flutter, Python, JavaScript, and exploring Docker for containerization
+- 🌍 Passionate about creating real-world solutions that make a difference
+- 🤝 Available for collaborations and good technical discussion
 
 🛠️ Tech Toolbox
 Languages & Frameworks
@@ -32,5 +32,3 @@ Design & UI/UX
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
 </p>
-socials
-www.linkedin.com/in/stella-habiyambere-a968a0371
