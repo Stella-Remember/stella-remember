@@ -11,10 +11,10 @@
 
 🛠️ Tech Toolbox
 Languages & Frameworks
-Show Image
-Show Image
-Show Image
-Show Image
+(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 Show Image
 Show Image
 Show Image
