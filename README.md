@@ -2,12 +2,12 @@
 
 ## Full Stack Engineer(Junior Dev)   
 
-🚀 Who I Am
+# 🚀 Who I Am
 
-🔧 Full-stack focused, with expertise in building scalable web applications and mobile solutions
+🔧 Full-stack focused, with expertise in building scalable web applications and mobile applications
 📱 Currently mastering: Flutter, Python, JavaScript, and exploring Docker for containerization
 🌍 Passionate about creating real-world solutions that make a difference
-🤝 Available for collaborations, freelance projects, or just a good technical discussion
+🤝 Available for collaborations and good technical discussion
 
 🛠️ Tech Toolbox
 Languages & Frameworks
@@ -32,29 +32,5 @@ Design & UI/UX
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
 </p>
-📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&row=1&column=6" alt="GitHub Trophies" />
-</div>
-🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
-</div>
-📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark" alt="Activity Graph" />
-</div>
-💼 What I'm Working On
-
-🔨 Building responsive web applications with Django and TailwindCSS
-📱 Developing cross-platform mobile apps with Flutter
-🐳 Learning Docker for containerization and deployment
-🎨 Improving my UI/UX design skills
-🗄️ Working with both SQL and NoSQL databases
+socials
+www.linkedin.com/in/stella-habiyambere-a968a0371
