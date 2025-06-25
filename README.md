@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi I'm Remember Stella 👋
 
-<!--
-**Stella-Remember/stella-remember** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Engineer(Junior Dev)   
 
-Here are some ideas to get you started:
+🚀 Who I Am
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Full-stack focused, with expertise in building scalable web applications and mobile solutions
+📱 Currently mastering: Flutter, Python, JavaScript, and exploring Docker for containerization
+🌍 Passionate about creating real-world solutions that make a difference
+🤝 Available for collaborations, freelance projects, or just a good technical discussion
+
+🛠️ Tech Toolbox
+Languages & Frameworks
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Databases & Tools
+Show Image
+Show Image
+Show Image
+Show Image
+Design & UI/UX
+Show Image
+Show Image
+📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+</div>
+🔥 Streak Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
+</div>
+📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark" alt="Activity Graph" />
+</div>
+💼 What I'm Working On
+
+🔨 Building responsive web applications with Django and TailwindCSS
+📱 Developing cross-platform mobile apps with Flutter
+🐳 Learning Docker for containerization and deployment
+🎨 Improving my UI/UX design skills
+🗄️ Working with both SQL and NoSQL databases
+
+📫 Let's Connect
+Show Image
+Show Image
+Show Image
+Show Imag
